@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{B011DA66-4AC2-6463-0264-7F3160A812CD}</ProjectGuid>
+    <ProjectGuid>{5272527F-30C9-68F9-461A-B19AE492A239}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>UnityEditor.UI</AssemblyName>
@@ -770,7 +770,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="UnityEngine.UI.csproj">
-      <Project>{867AE704-4BE3-9606-31F7-D935359A7F77}</Project>
+      <Project>{1ECAE0DC-8D1C-D667-F970-D130FF559661}</Project>
       <Name>UnityEngine.UI</Name>
     </ProjectReference>
   </ItemGroup>
